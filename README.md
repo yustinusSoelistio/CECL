@@ -1,6 +1,5 @@
 # CECL
-Eye center localization method based on Hough transformation.  The method is free to use for scientific purposes.  
-All uses, publications, and references to the method must be directed to 
+Eye center localization method based on Hough transformation.  This software is free to use for scientific purposes.  All uses, publications, and references to the software must be directed to 
 
 @INPROCEEDINGS{7153202, 
 author={Soelistio, Y.E. and Postma, E. and Maes, A.}, 
